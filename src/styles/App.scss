@@ -1,0 +1,14 @@
+.actions {
+    opacity: 0;
+}
+
+.table tr:hover .actions {
+    opacity: 1;
+}
+
+.table tbody td a {
+    color: #222222;
+    &:hover {
+        color: #222222;
+    }
+}
