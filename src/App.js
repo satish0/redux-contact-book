@@ -17,7 +17,7 @@ function App() {
           <div className="container">
             <div className="py-3">
               <Switch>
-                <Route exact path="/" component={Contacts} />
+                <Route exact path="/redux-contact-book" component={Contacts} />
                 <Route exact path="/contacts/add" component={AddContact} />
                 <Route exact path="/contacts/edit/:id" component={EditContact} />
               </Switch>
