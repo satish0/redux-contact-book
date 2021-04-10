@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/redux-contact-book/static/css/main.0d0d2076.chunk.css",
+    "main.js": "/redux-contact-book/static/js/main.f766fe9d.chunk.js",
+    "main.js.map": "/redux-contact-book/static/js/main.f766fe9d.chunk.js.map",
+    "runtime-main.js": "/redux-contact-book/static/js/runtime-main.76e412e5.js",
+    "runtime-main.js.map": "/redux-contact-book/static/js/runtime-main.76e412e5.js.map",
+    "static/js/2.94288c04.chunk.js": "/redux-contact-book/static/js/2.94288c04.chunk.js",
+    "static/js/2.94288c04.chunk.js.map": "/redux-contact-book/static/js/2.94288c04.chunk.js.map",
+    "static/js/3.4acfcd20.chunk.js": "/redux-contact-book/static/js/3.4acfcd20.chunk.js",
+    "static/js/3.4acfcd20.chunk.js.map": "/redux-contact-book/static/js/3.4acfcd20.chunk.js.map",
+    "index.html": "/redux-contact-book/index.html",
+    "static/css/main.0d0d2076.chunk.css.map": "/redux-contact-book/static/css/main.0d0d2076.chunk.css.map",
+    "static/js/2.94288c04.chunk.js.LICENSE.txt": "/redux-contact-book/static/js/2.94288c04.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76e412e5.js",
+    "static/js/2.94288c04.chunk.js",
+    "static/css/main.0d0d2076.chunk.css",
+    "static/js/main.f766fe9d.chunk.js"
+  ]
+}
